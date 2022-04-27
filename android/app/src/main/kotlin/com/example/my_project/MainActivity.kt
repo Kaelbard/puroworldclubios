@@ -1,4 +1,4 @@
-package puro.world.club
+package puro.world.clubv2
 
 import io.flutter.embedding.android.FlutterActivity
 
