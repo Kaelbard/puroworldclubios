@@ -1,1 +1,11 @@
+workflows:
+  my-workflow:
+    publishing:
+      app_store_connect:
+        api_key: 83c9d6ad-e55c-42c2-abeb-8ad53d8eda2b
+        key_id: V8PM8637HV
+        issuer_id: 1621097618
+        submit_to_testflight: true
+        beta_groups:
+          - Beta Testers
 
