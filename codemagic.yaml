@@ -2,10 +2,7 @@ workflows:
   my-workflow:
     publishing:
       app_store_connect:
-        api_key: MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg00IVsjW0nyDvGoTf
-BzhTJJlNIiRgq+Q88S2EntF7XPygCgYIKoZIzj0DAQehRANCAASc0DEGDfT+ohpq
-rSjbJN3A82KqPC2eE+Q36KDbL1ypQ/o8bhqPP1TG49uddd+6YFIP8UojIa7C15Hm
-Yoq6n2LE
+        api_key: MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg00IVsjW0nyDvGoTfBzhTJJlNIiRgq+Q88S2EntF7XPygCgYIKoZIzj0DAQehRANCAASc0DEGDfT+ohpqrSjbJN3A82KqPC2eE+Q36KDbL1ypQ/o8bhqPP1TG49uddd+6YFIP8UojIa7C15HmYoq6n2LE
         key_id: V8PM8637HV
         issuer_id: 83c9d6ad-e55c-42c2-abeb-8ad53d8eda2b
         submit_to_testflight: true
