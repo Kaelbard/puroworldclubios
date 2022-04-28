@@ -150,7 +150,7 @@ class _PlanosCopyWidgetState extends State<PlanosCopyWidget> {
                                                                               BorderRadius.circular(8),
                                                                           child:
                                                                               Image.asset(
-                                                                            'assets/images/PWC_pequeno.png',
+                                                                            'assets/images/logo_fundo_escuro-edit.png',
                                                                             width:
                                                                                 360,
                                                                             fit:
@@ -1408,12 +1408,6 @@ class _PlanosCopyWidgetState extends State<PlanosCopyWidget> {
                                           ),
                                         ),
                                       ),
-                                    ),
-                                    Image.asset(
-                                      'assets/images/logo_fundo_claro2-1_(1).png',
-                                      width: double.infinity,
-                                      height: 100,
-                                      fit: BoxFit.contain,
                                     ),
                                   ],
                                 ),

@@ -67,7 +67,7 @@ class _FaleConoscoWidgetState extends State<FaleConoscoWidget> {
                               child: ClipRRect(
                                 borderRadius: BorderRadius.circular(5),
                                 child: Image.asset(
-                                  'assets/images/praia_pwc.png',
+                                  'assets/images/LogoPraia.jpg',
                                   width: 360,
                                   height: 200,
                                   fit: BoxFit.cover,
