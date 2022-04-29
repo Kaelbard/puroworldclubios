@@ -232,41 +232,6 @@ class _LocaisWidgetState extends State<LocaisWidget> {
                             ),
                           ],
                         ),
-                        Container(
-                          width: 100,
-                          height: 100,
-                          decoration: BoxDecoration(
-                            color: Color(0xFF192A4D),
-                            image: DecorationImage(
-                              fit: BoxFit.contain,
-                              image: Image.asset(
-                                'assets/images/logo_fundo_claro2-1.png',
-                              ).image,
-                            ),
-                          ),
-                          child: Row(
-                            mainAxisSize: MainAxisSize.max,
-                            children: [
-                              Expanded(
-                                child: Align(
-                                  alignment: AlignmentDirectional(0, 0.35),
-                                  child: Text(
-                                    'Em breve perto de você',
-                                    textAlign: TextAlign.center,
-                                    style: FlutterFlowTheme.of(context)
-                                        .bodyText1
-                                        .override(
-                                          fontFamily: 'Montserrat',
-                                          color: FlutterFlowTheme.of(context)
-                                              .primaryBtnText,
-                                          fontSize: 25,
-                                        ),
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
                       ],
                     ),
                   ),
@@ -277,7 +242,7 @@ class _LocaisWidgetState extends State<LocaisWidget> {
                       child: SmoothPageIndicator(
                         controller: pageViewController ??=
                             PageController(initialPage: 0),
-                        count: 2,
+                        count: 1,
                         axisDirection: Axis.horizontal,
                         onDotClicked: (i) {
                           pageViewController.animateToPage(

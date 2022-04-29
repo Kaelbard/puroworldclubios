@@ -138,7 +138,7 @@ class _RepublicaDWidgetState extends State<RepublicaDWidget> {
                                 width: double.infinity,
                                 height: 170,
                                 decoration: BoxDecoration(
-                                  color: Color(0xFF5F4621),
+                                  color: Color(0xFFB5863F),
                                   image: DecorationImage(
                                     fit: BoxFit.contain,
                                     image: Image.asset(
@@ -310,7 +310,7 @@ class _RepublicaDWidgetState extends State<RepublicaDWidget> {
                                 width: double.infinity,
                                 height: 170,
                                 decoration: BoxDecoration(
-                                  color: Color(0xFF5F4621),
+                                  color: Color(0xFFB5863F),
                                   image: DecorationImage(
                                     fit: BoxFit.contain,
                                     image: Image.asset(
@@ -487,7 +487,7 @@ class _RepublicaDWidgetState extends State<RepublicaDWidget> {
                                 width: double.infinity,
                                 height: 170,
                                 decoration: BoxDecoration(
-                                  color: Color(0xFF5F4621),
+                                  color: Color(0xFFB5863F),
                                   image: DecorationImage(
                                     fit: BoxFit.contain,
                                     image: Image.asset(

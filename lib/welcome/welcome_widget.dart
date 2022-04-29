@@ -49,6 +49,8 @@ class _WelcomeWidgetState extends State<WelcomeWidget> {
                 },
                 child: Image.asset(
                   'assets/images/Puro_World_Club_.png',
+                  width: 500,
+                  height: 200,
                   fit: BoxFit.fitHeight,
                 ),
               ),

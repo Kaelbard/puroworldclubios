@@ -65,6 +65,10 @@ class _SobreWidgetState extends State<SobreWidget> {
                             child: Container(
                               width: 350,
                               height: 170,
+                              constraints: BoxConstraints(
+                                maxWidth: 560,
+                                maxHeight: 200,
+                              ),
                               decoration: BoxDecoration(
                                 color: Colors.black,
                                 image: DecorationImage(

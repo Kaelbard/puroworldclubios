@@ -153,6 +153,8 @@ class _PlanosCopyWidgetState extends State<PlanosCopyWidget> {
                                                                             'assets/images/logo_fundo_escuro-edit.png',
                                                                             width:
                                                                                 360,
+                                                                            height:
+                                                                                180,
                                                                             fit:
                                                                                 BoxFit.cover,
                                                                           ),
